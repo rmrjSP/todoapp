@@ -1,8 +1,13 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: aquamarine;
 }
 
 a {
-  color: #00B7FF;
+  color: firebrick;
+}
+res.redirect{
+  padding-right: 2px;
+  padding-left: 2px;
 }
